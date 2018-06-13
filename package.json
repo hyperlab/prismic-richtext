@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/prismicio/prismic-richtext#readme",
   "devDependencies": {
-    "@types/ramda": "^0.25.3",
     "chai": "^4.1.2",
     "chai-subset": "^1.6.0",
     "mocha": "^4.0.1",
@@ -35,7 +34,6 @@
     "yargs": "^10.0.3"
   },
   "dependencies": {
-    "ramda": "^0.25.0",
     "uuid": "^3.1.0"
   }
 }
